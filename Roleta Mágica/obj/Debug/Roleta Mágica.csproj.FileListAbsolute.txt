@@ -1,0 +1,42 @@
+C:\Users\jonas\Source\Workspaces\Roleta Mágica\Roleta Mágica\Roleta Mágica\bin\Debug\Roleta Mágica.exe.config
+C:\Users\jonas\Source\Workspaces\Roleta Mágica\Roleta Mágica\Roleta Mágica\obj\Debug\Roleta Mágica.csprojResolveAssemblyReference.cache
+C:\Users\jonas\Source\Workspaces\Roleta Mágica\Roleta Mágica\Roleta Mágica\bin\Debug\Roleta Mágica.exe
+C:\Users\jonas\Source\Workspaces\Roleta Mágica\Roleta Mágica\Roleta Mágica\bin\Debug\Roleta Mágica.pdb
+C:\Users\jonas\Source\Workspaces\Roleta Mágica\Roleta Mágica\Roleta Mágica\bin\Debug\Apostas.dll
+C:\Users\jonas\Source\Workspaces\Roleta Mágica\Roleta Mágica\Roleta Mágica\bin\Debug\Premio.dll
+C:\Users\jonas\Source\Workspaces\Roleta Mágica\Roleta Mágica\Roleta Mágica\bin\Debug\Roleta.dll
+C:\Users\jonas\Source\Workspaces\Roleta Mágica\Roleta Mágica\Roleta Mágica\bin\Debug\Apostas.pdb
+C:\Users\jonas\Source\Workspaces\Roleta Mágica\Roleta Mágica\Roleta Mágica\bin\Debug\Premio.pdb
+C:\Users\jonas\Source\Workspaces\Roleta Mágica\Roleta Mágica\Roleta Mágica\bin\Debug\Roleta.pdb
+C:\Users\jonas\Source\Workspaces\Roleta Mágica\Roleta Mágica\Roleta Mágica\obj\Debug\Roleta Mágica.exe
+C:\Users\jonas\Source\Workspaces\Roleta Mágica\Roleta Mágica\Roleta Mágica\obj\Debug\Roleta Mágica.pdb
+C:\Users\jonas\Source\Workspaces\Roleta Mágica\Roleta Mágica\Roleta Mágica\bin\Debug\MetodosLib.dll
+C:\Users\jonas\Source\Workspaces\Roleta Mágica\Roleta Mágica\Roleta Mágica\bin\Debug\MetodosLib.pdb
+D:\LESI\2osemestre\LPII\Roleta Mágica\Roleta Mágica\bin\Debug\Roleta Mágica.exe.config
+D:\LESI\2osemestre\LPII\Roleta Mágica\Roleta Mágica\obj\Debug\Roleta Mágica.exe
+D:\LESI\2osemestre\LPII\Roleta Mágica\Roleta Mágica\obj\Debug\Roleta Mágica.pdb
+D:\LESI\2osemestre\LPII\Roleta Mágica\Roleta Mágica\bin\Debug\Roleta Mágica.exe
+D:\LESI\2osemestre\LPII\Roleta Mágica\Roleta Mágica\bin\Debug\Roleta Mágica.pdb
+D:\LESI\2osemestre\LPII\Roleta Mágica\Roleta Mágica\bin\Debug\Apostas.dll
+D:\LESI\2osemestre\LPII\Roleta Mágica\Roleta Mágica\bin\Debug\MetodosLib.dll
+D:\LESI\2osemestre\LPII\Roleta Mágica\Roleta Mágica\bin\Debug\Premio.dll
+D:\LESI\2osemestre\LPII\Roleta Mágica\Roleta Mágica\bin\Debug\Roleta.dll
+D:\LESI\2osemestre\LPII\Roleta Mágica\Roleta Mágica\bin\Debug\Apostas.pdb
+D:\LESI\2osemestre\LPII\Roleta Mágica\Roleta Mágica\bin\Debug\MetodosLib.pdb
+D:\LESI\2osemestre\LPII\Roleta Mágica\Roleta Mágica\bin\Debug\Premio.pdb
+D:\LESI\2osemestre\LPII\Roleta Mágica\Roleta Mágica\bin\Debug\Roleta.pdb
+D:\LESI\2osemestre\LPII\Roleta Mágica\Roleta Mágica\obj\Debug\Roleta Mágica.csprojResolveAssemblyReference.cache
+D:\LESI\1º ano\2osemestre\LPII\Roleta Mágica\Roleta Mágica\bin\Debug\Roleta Mágica.exe.config
+D:\LESI\1º ano\2osemestre\LPII\Roleta Mágica\Roleta Mágica\bin\Debug\Roleta Mágica.exe
+D:\LESI\1º ano\2osemestre\LPII\Roleta Mágica\Roleta Mágica\bin\Debug\Roleta Mágica.pdb
+D:\LESI\1º ano\2osemestre\LPII\Roleta Mágica\Roleta Mágica\bin\Debug\Apostas.dll
+D:\LESI\1º ano\2osemestre\LPII\Roleta Mágica\Roleta Mágica\bin\Debug\MetodosLib.dll
+D:\LESI\1º ano\2osemestre\LPII\Roleta Mágica\Roleta Mágica\bin\Debug\Premio.dll
+D:\LESI\1º ano\2osemestre\LPII\Roleta Mágica\Roleta Mágica\bin\Debug\Roleta.dll
+D:\LESI\1º ano\2osemestre\LPII\Roleta Mágica\Roleta Mágica\bin\Debug\Apostas.pdb
+D:\LESI\1º ano\2osemestre\LPII\Roleta Mágica\Roleta Mágica\bin\Debug\MetodosLib.pdb
+D:\LESI\1º ano\2osemestre\LPII\Roleta Mágica\Roleta Mágica\bin\Debug\Premio.pdb
+D:\LESI\1º ano\2osemestre\LPII\Roleta Mágica\Roleta Mágica\bin\Debug\Roleta.pdb
+D:\LESI\1º ano\2osemestre\LPII\Roleta Mágica\Roleta Mágica\obj\Debug\Roleta Mágica.csprojResolveAssemblyReference.cache
+D:\LESI\1º ano\2osemestre\LPII\Roleta Mágica\Roleta Mágica\obj\Debug\Roleta Mágica.exe
+D:\LESI\1º ano\2osemestre\LPII\Roleta Mágica\Roleta Mágica\obj\Debug\Roleta Mágica.pdb

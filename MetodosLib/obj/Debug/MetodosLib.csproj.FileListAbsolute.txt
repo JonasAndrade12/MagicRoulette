@@ -1,0 +1,21 @@
+C:\Users\jonas\Source\Workspaces\Roleta Mágica\Roleta Mágica\MetodosLib\bin\Debug\MetodosLib.dll
+C:\Users\jonas\Source\Workspaces\Roleta Mágica\Roleta Mágica\MetodosLib\bin\Debug\MetodosLib.pdb
+C:\Users\jonas\Source\Workspaces\Roleta Mágica\Roleta Mágica\MetodosLib\bin\Debug\Roleta.dll
+C:\Users\jonas\Source\Workspaces\Roleta Mágica\Roleta Mágica\MetodosLib\bin\Debug\Roleta.pdb
+C:\Users\jonas\Source\Workspaces\Roleta Mágica\Roleta Mágica\MetodosLib\obj\Debug\MetodosLib.csprojResolveAssemblyReference.cache
+C:\Users\jonas\Source\Workspaces\Roleta Mágica\Roleta Mágica\MetodosLib\obj\Debug\MetodosLib.dll
+C:\Users\jonas\Source\Workspaces\Roleta Mágica\Roleta Mágica\MetodosLib\obj\Debug\MetodosLib.pdb
+D:\LESI\2osemestre\LPII\Roleta Mágica\MetodosLib\bin\Debug\MetodosLib.dll
+D:\LESI\2osemestre\LPII\Roleta Mágica\MetodosLib\bin\Debug\MetodosLib.pdb
+D:\LESI\2osemestre\LPII\Roleta Mágica\MetodosLib\bin\Debug\Roleta.dll
+D:\LESI\2osemestre\LPII\Roleta Mágica\MetodosLib\bin\Debug\Roleta.pdb
+D:\LESI\2osemestre\LPII\Roleta Mágica\MetodosLib\obj\Debug\MetodosLib.csprojResolveAssemblyReference.cache
+D:\LESI\2osemestre\LPII\Roleta Mágica\MetodosLib\obj\Debug\MetodosLib.dll
+D:\LESI\2osemestre\LPII\Roleta Mágica\MetodosLib\obj\Debug\MetodosLib.pdb
+D:\LESI\1º ano\2osemestre\LPII\Roleta Mágica\MetodosLib\bin\Debug\MetodosLib.dll
+D:\LESI\1º ano\2osemestre\LPII\Roleta Mágica\MetodosLib\bin\Debug\MetodosLib.pdb
+D:\LESI\1º ano\2osemestre\LPII\Roleta Mágica\MetodosLib\bin\Debug\Roleta.dll
+D:\LESI\1º ano\2osemestre\LPII\Roleta Mágica\MetodosLib\bin\Debug\Roleta.pdb
+D:\LESI\1º ano\2osemestre\LPII\Roleta Mágica\MetodosLib\obj\Debug\MetodosLib.csprojResolveAssemblyReference.cache
+D:\LESI\1º ano\2osemestre\LPII\Roleta Mágica\MetodosLib\obj\Debug\MetodosLib.dll
+D:\LESI\1º ano\2osemestre\LPII\Roleta Mágica\MetodosLib\obj\Debug\MetodosLib.pdb

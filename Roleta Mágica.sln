@@ -1,0 +1,67 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roleta Mágica", "Roleta Mágica\Roleta Mágica.csproj", "{7D9E3D9D-72DF-4F8D-BAA9-A008441142B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Premio", "Premio\Premio.csproj", "{56A530B2-ECF2-44D0-ACF7-6B96DA90D7D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Apostas", "Apostas\Apostas.csproj", "{8BD058A7-34D5-4BD0-8159-C505B3442C19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roleta", "Roleta\Roleta.csproj", "{7EB1871D-CF98-4975-8D98-7F249C59A829}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetodosLib", "MetodosLib\MetodosLib.csproj", "{1EC6E1FA-B8D7-46A0-8935-A9466F0CBE13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D9E3D9D-72DF-4F8D-BAA9-A008441142B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D9E3D9D-72DF-4F8D-BAA9-A008441142B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D9E3D9D-72DF-4F8D-BAA9-A008441142B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D9E3D9D-72DF-4F8D-BAA9-A008441142B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56A530B2-ECF2-44D0-ACF7-6B96DA90D7D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56A530B2-ECF2-44D0-ACF7-6B96DA90D7D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56A530B2-ECF2-44D0-ACF7-6B96DA90D7D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56A530B2-ECF2-44D0-ACF7-6B96DA90D7D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BD058A7-34D5-4BD0-8159-C505B3442C19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BD058A7-34D5-4BD0-8159-C505B3442C19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BD058A7-34D5-4BD0-8159-C505B3442C19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BD058A7-34D5-4BD0-8159-C505B3442C19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EB1871D-CF98-4975-8D98-7F249C59A829}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EB1871D-CF98-4975-8D98-7F249C59A829}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EB1871D-CF98-4975-8D98-7F249C59A829}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EB1871D-CF98-4975-8D98-7F249C59A829}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EC6E1FA-B8D7-46A0-8935-A9466F0CBE13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EC6E1FA-B8D7-46A0-8935-A9466F0CBE13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EC6E1FA-B8D7-46A0-8935-A9466F0CBE13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EC6E1FA-B8D7-46A0-8935-A9466F0CBE13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 6
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://jonasandrade12.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Roleta\u0020Mágica\\Roleta\u0020Mágica.csproj
+		SccProjectName1 = Roleta\u0020Mágica
+		SccLocalPath1 = Roleta\u0020Mágica
+		SccProjectUniqueName2 = Premio\\Premio.csproj
+		SccProjectName2 = Premio
+		SccLocalPath2 = Premio
+		SccProjectUniqueName3 = Apostas\\Apostas.csproj
+		SccProjectName3 = Apostas
+		SccLocalPath3 = Apostas
+		SccProjectUniqueName4 = Roleta\\Roleta.csproj
+		SccProjectName4 = Roleta
+		SccLocalPath4 = Roleta
+		SccProjectUniqueName5 = MetodosLib\\MetodosLib.csproj
+		SccProjectName5 = MetodosLib
+		SccLocalPath5 = MetodosLib
+	EndGlobalSection
+EndGlobal

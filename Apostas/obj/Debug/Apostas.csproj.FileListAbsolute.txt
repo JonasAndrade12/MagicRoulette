@@ -1,0 +1,27 @@
+C:\Users\jonas\Source\Workspaces\Roleta Mágica\Roleta Mágica\Apostas\bin\Debug\Apostas.dll
+C:\Users\jonas\Source\Workspaces\Roleta Mágica\Roleta Mágica\Apostas\bin\Debug\Apostas.pdb
+C:\Users\jonas\Source\Workspaces\Roleta Mágica\Roleta Mágica\Apostas\bin\Debug\Roleta.dll
+C:\Users\jonas\Source\Workspaces\Roleta Mágica\Roleta Mágica\Apostas\bin\Debug\Roleta.pdb
+C:\Users\jonas\Source\Workspaces\Roleta Mágica\Roleta Mágica\Apostas\obj\Debug\Apostas.csprojResolveAssemblyReference.cache
+C:\Users\jonas\Source\Workspaces\Roleta Mágica\Roleta Mágica\Apostas\obj\Debug\Apostas.dll
+C:\Users\jonas\Source\Workspaces\Roleta Mágica\Roleta Mágica\Apostas\obj\Debug\Apostas.pdb
+C:\Users\jonas\Source\Workspaces\Roleta Mágica\Roleta Mágica\Apostas\bin\Debug\MetodosLib.dll
+C:\Users\jonas\Source\Workspaces\Roleta Mágica\Roleta Mágica\Apostas\bin\Debug\MetodosLib.pdb
+D:\LESI\2osemestre\LPII\Roleta Mágica\Apostas\bin\Debug\Apostas.dll
+D:\LESI\2osemestre\LPII\Roleta Mágica\Apostas\bin\Debug\Apostas.pdb
+D:\LESI\2osemestre\LPII\Roleta Mágica\Apostas\bin\Debug\MetodosLib.dll
+D:\LESI\2osemestre\LPII\Roleta Mágica\Apostas\bin\Debug\Roleta.dll
+D:\LESI\2osemestre\LPII\Roleta Mágica\Apostas\bin\Debug\MetodosLib.pdb
+D:\LESI\2osemestre\LPII\Roleta Mágica\Apostas\bin\Debug\Roleta.pdb
+D:\LESI\2osemestre\LPII\Roleta Mágica\Apostas\obj\Debug\Apostas.csprojResolveAssemblyReference.cache
+D:\LESI\2osemestre\LPII\Roleta Mágica\Apostas\obj\Debug\Apostas.dll
+D:\LESI\2osemestre\LPII\Roleta Mágica\Apostas\obj\Debug\Apostas.pdb
+D:\LESI\1º ano\2osemestre\LPII\Roleta Mágica\Apostas\bin\Debug\Apostas.dll
+D:\LESI\1º ano\2osemestre\LPII\Roleta Mágica\Apostas\bin\Debug\Apostas.pdb
+D:\LESI\1º ano\2osemestre\LPII\Roleta Mágica\Apostas\bin\Debug\MetodosLib.dll
+D:\LESI\1º ano\2osemestre\LPII\Roleta Mágica\Apostas\bin\Debug\Roleta.dll
+D:\LESI\1º ano\2osemestre\LPII\Roleta Mágica\Apostas\bin\Debug\MetodosLib.pdb
+D:\LESI\1º ano\2osemestre\LPII\Roleta Mágica\Apostas\bin\Debug\Roleta.pdb
+D:\LESI\1º ano\2osemestre\LPII\Roleta Mágica\Apostas\obj\Debug\Apostas.csprojResolveAssemblyReference.cache
+D:\LESI\1º ano\2osemestre\LPII\Roleta Mágica\Apostas\obj\Debug\Apostas.dll
+D:\LESI\1º ano\2osemestre\LPII\Roleta Mágica\Apostas\obj\Debug\Apostas.pdb

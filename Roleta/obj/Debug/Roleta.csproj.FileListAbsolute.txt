@@ -1,0 +1,14 @@
+C:\Users\jonas\Source\Workspaces\Roleta Mágica\Roleta Mágica\Roleta\bin\Debug\Roleta.dll
+C:\Users\jonas\Source\Workspaces\Roleta Mágica\Roleta Mágica\Roleta\bin\Debug\Roleta.pdb
+C:\Users\jonas\Source\Workspaces\Roleta Mágica\Roleta Mágica\Roleta\obj\Debug\Roleta.dll
+C:\Users\jonas\Source\Workspaces\Roleta Mágica\Roleta Mágica\Roleta\obj\Debug\Roleta.pdb
+D:\LESI\2osemestre\LPII\Roleta Mágica\Roleta\bin\Debug\Roleta.dll
+D:\LESI\2osemestre\LPII\Roleta Mágica\Roleta\bin\Debug\Roleta.pdb
+D:\LESI\2osemestre\LPII\Roleta Mágica\Roleta\obj\Debug\Roleta.csprojResolveAssemblyReference.cache
+D:\LESI\2osemestre\LPII\Roleta Mágica\Roleta\obj\Debug\Roleta.dll
+D:\LESI\2osemestre\LPII\Roleta Mágica\Roleta\obj\Debug\Roleta.pdb
+D:\LESI\1º ano\2osemestre\LPII\Roleta Mágica\Roleta\bin\Debug\Roleta.dll
+D:\LESI\1º ano\2osemestre\LPII\Roleta Mágica\Roleta\bin\Debug\Roleta.pdb
+D:\LESI\1º ano\2osemestre\LPII\Roleta Mágica\Roleta\obj\Debug\Roleta.csprojResolveAssemblyReference.cache
+D:\LESI\1º ano\2osemestre\LPII\Roleta Mágica\Roleta\obj\Debug\Roleta.dll
+D:\LESI\1º ano\2osemestre\LPII\Roleta Mágica\Roleta\obj\Debug\Roleta.pdb
